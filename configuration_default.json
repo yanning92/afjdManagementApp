@@ -1,0 +1,19 @@
+{
+  "afjdManagementApp": {
+    "application_name": "afjdManagementApp",
+    "listening_address": "0.0.0.0",
+    "port": 8085,
+    "apiVersion": 1
+  },
+  "log": {
+    "level": "debug",
+    "stream": "process.stdout",
+    "path": ""
+  },
+  "mysql":{
+    "host"     : "localhost",
+    "user"    : "root",
+    "password" : "root",
+    "database" : "sitefrancoise"
+  }
+}
