@@ -1,3 +1,7 @@
+/**
+ * Created by yanning on 20/04/2015.
+ */
+
 var conf = require('nconf');
 
 conf.env('_');
